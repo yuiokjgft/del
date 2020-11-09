@@ -1,11 +1,4 @@
- Requirements
-* Unix-like OS
-* PHP 7+ (i recommend to use the newer versions before 7.4)
-
-- The awesome (but in PHP) library [MadelineProto](https://github.com/danog/MadelineProto), but it is downloaded and updated automatically. You don't have to care with it.
-- The included file `twig.phar` that is just the package of [Twig](https://twig.symfony.com) packed with [comphar](https://github.com/mpyw/comphar).
-
-# Cloning
+Cloning
 1. Put the files on your server
 If you have SSH access, simply clone the repository with git:
 `git clone https://github.com/usernein/silentc`
